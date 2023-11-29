@@ -1,0 +1,31 @@
+{
+  "name": "@elysia/cookie-middleware",
+  "description": "A Cookie Plugin Based-On Expressjs-Styling",
+  "types": "./types.d.ts",
+  "version": "1.0.0",
+  "module": "index.ts",
+  "type": "module",
+  "devDependencies": {
+    "bun-types": "^1.0.14"
+  },
+  "peerDependencies": {
+    "typescript": "^5.0.0"
+  },
+  "dependencies": {
+    "elysia": "^0.7.29"
+  },
+  "author": {
+    "name": "isekaimaou1109",
+    "email": "nhat11092000@gmail.com",
+    "url": "https://github.com/isekaimaou1109"
+  },
+  "homepage": "https://github.com/isekaimaou1109/-elysia-cookie-middleware",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/isekaimaou1109/-elysia-cookie-middleware/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/isekaimaou1109/-elysia-cookie-middleware.git"
+  }
+}
