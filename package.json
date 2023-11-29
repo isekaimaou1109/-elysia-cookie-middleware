@@ -1,6 +1,7 @@
 {
   "name": "@elysia/cookie-middleware",
   "description": "A Cookie Plugin Based-On Expressjs-Styling",
+  "private": false,
   "types": "./types.d.ts",
   "version": "1.0.0",
   "module": "index.ts",
